@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/then.rb",
     "spec/spec_helper.rb",
-    "spec/then_spec.rb"
+    "spec/then_spec.rb",
+    "then.gemspec"
   ]
   s.homepage = %q{http://github.com/hitode909/then}
   s.licenses = ["MIT"]
