@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "then"
   gem.homepage = "http://github.com/hitode909/then"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{fork for method chain}
+  gem.description = %Q{then is fork for method chain}
   gem.email = "hitode909@gmail.com"
   gem.authors = ["hitode909"]
   # dependencies defined in Gemfile
